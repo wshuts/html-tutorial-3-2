@@ -26,3 +26,7 @@ div.column-2-3 {
     width: 66.67%;
 }
 
+div {
+    outline: 1px solid red;
+}
+
