@@ -9,3 +9,7 @@ div.row::after {
     content: "";
     display: table;
 }
+
+div[class^="column-"] {
+    float: left;
+}
